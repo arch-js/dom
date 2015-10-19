@@ -1,6 +1,6 @@
 {
   "name": "arch-dom",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "description": "Easy to use React DOM DSL, for when you don't or can't use JSX",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
     "mocha": "^2.3.3"
   },
   "dependencies": {
-    "react": "~0.13.0"
+    "react": "~0.14.0"
   }
 }
