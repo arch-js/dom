@@ -7,7 +7,7 @@ A small utility for helping to write React components without JSX.
 
 Features:
 
-- No need to pass `null` props when not required (just pass children) in 99% of cases.
+- No need to pass `null` props when not required (just pass children).
 - Pass children as function arguments rather than an array.
 
 Usage (LiveScript):
