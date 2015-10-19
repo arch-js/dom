@@ -1,0 +1,32 @@
+{
+  "name": "arch-dom",
+  "version": "0.13.0",
+  "description": "Easy to use React DOM DSL, for when you don't or can't use JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arch-js/dom.git"
+  },
+  "keywords": [
+    "react",
+    "dom",
+    "dsl",
+    "arch"
+  ],
+  "author": "Tiago Azevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arch-js/dom/issues"
+  },
+  "homepage": "https://github.com/arch-js/dom#readme",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "react": "~0.13.0"
+  }
+}
