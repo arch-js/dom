@@ -1,5 +1,8 @@
 #### arch-dom
 
+`npm install arch-dom@0.13` for `react@~0.13`
+`npm install arch-dom@0.14` for `react@~0.14`
+
 A small utility for helping to write React components without JSX.
 
 Features:
